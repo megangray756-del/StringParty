@@ -16,4 +16,8 @@ public class StringManipulator {
     public void appendExclaim() {
         string = string + "!!!";
     }
+
+    public void pigLatin() { string = string + "ay"; }
+
+
 }

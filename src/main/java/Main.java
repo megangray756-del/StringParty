@@ -8,8 +8,7 @@ public class Main {
 
         StringManipulator manipulator = new StringManipulator(input);
 
-        manipulator.aToAt();
-        manipulator.appendExclaim();
+        manipulator.pigLatin();
 
         System.out.println(manipulator);
     }
